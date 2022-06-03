@@ -1,2 +1,2 @@
 # EDA-Global-Terrorism
-Exploratory Data Analysis on Global Terrorism -GRIP Internship
+Graduate Rotational Internship Program (GRIP - May 2022) organised by The Sparks Foundation.
